@@ -6,8 +6,4 @@ world
 today is tuesday.
 Done with  Changes
 
-Final Copy.
-
-finally merged
-Added.
-NotAdded.
+Done my  Changes.
